@@ -1,3 +1,4 @@
+192.30.252.140 gist.github.com
 111.221.33.16 smile-fnl10.nicovideo.jp
 42.99.128.162 fbstatic-a.akamaihd.net
 42.99.128.162 fbcdn-sphotos-f-a.akamaihd.net
