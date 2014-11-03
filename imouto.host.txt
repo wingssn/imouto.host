@@ -2366,7 +2366,7 @@
 192.119.22.108	www.webmproject.org
 192.119.22.108	golang.org
 192.119.22.108	play.golang.org
-192.119.22.108	feeds.feedburner.com
+46.229.224.44	feeds.feedburner.com
 #Google other↑
 #Google Play↓
 #203.208.46.89	r1---sn-a5m7znee.c.android.clients.google.com
