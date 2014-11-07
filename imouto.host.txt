@@ -4,13 +4,15 @@
 162.13.201.175 www.transifex.com
 50.56.21.178 email.transifex.com
 192.30.252.140 gist.github.com
-42.99.128.162 fbstatic-a.akamaihd.net
-42.99.128.162 fbcdn-sphotos-f-a.akamaihd.net
+111.221.33.16 smile-fnl10.nicovideo.jp
+23.61.250.25 fbstatic-a.akamaihd.net
+23.61.250.25 fbcdn-sphotos-f-a.akamaihd.net
 54.192.225.207 pao-pao.net
 54.192.225.207 www.pao-pao.net
 54.225.121.9 hola.org
 54.225.121.9 www.hola.org
 54.225.121.9 cdn4.hola.org
+74.125.68.121 javascript-blocker.toggleable.com
 69.171.233.18   friendfeed.com
 69.171.233.18   www.friendfeed.com
 #69.171.233.18   blog.friendfeed.com
@@ -1240,17 +1242,19 @@
 199.59.150.46	cdn.syndication.twimg.com
 199.59.150.46	syndication-o.twitter.com
 199.59.150.46	syndication-o.twimg.com
-93.184.216.146	a0.twimg.com
-93.184.216.146	a1.twimg.com
-93.184.216.146	abs.twimg.com
-93.184.216.146	p.twimg.com
+117.18.237.139	a0.twimg.com
+117.18.237.139	a1.twimg.com
+117.18.237.139	abs.twimg.com
+117.18.237.139	pbs.twimg.com
+117.18.237.139	bs.twimg.com
+117.18.237.139	p.twimg.com
 199.16.158.15	r.twimg.com
-93.184.216.146	si0.twimg.com
-93.184.216.146	si1.twimg.com
-93.184.216.146	si2.twimg.com
-93.184.216.146	si3.twimg.com
-93.184.216.146	si4.twimg.com
-93.184.216.146	si5.twimg.com
+117.18.237.139	si0.twimg.com
+117.18.237.139	si1.twimg.com
+117.18.237.139	si2.twimg.com
+117.18.237.139	si3.twimg.com
+117.18.237.139	si4.twimg.com
+117.18.237.139	si5.twimg.com
 199.16.158.14	support.twitter.com
 199.16.158.10	blog.twitter.com
 199.16.158.10	about.twitter.com
@@ -1483,7 +1487,7 @@
 64.233.169.84	accounts.l.google.com
 #GoogleAccounts↑
 #www.google.com↓
-118.174.27.157	www.google.com
+202.65.246.80	www.google.com
 #www.google.com↑
 #Googleapis↓
 192.119.22.108	mt0.googleapis.com
