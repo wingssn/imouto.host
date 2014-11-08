@@ -1,3 +1,4 @@
+69.22.163.234 a248.e.akamai.net
 #91.121.84.91 archive.today
 #91.121.84.91 archive.is
 192.119.22.108 script.googleusercontent.com
