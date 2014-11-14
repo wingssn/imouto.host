@@ -1,13 +1,8 @@
+72.21.91.121 0.gravatar.com
+72.21.91.121 1.gravatar.com
+72.21.91.121 2.gravatar.com
 72.21.91.111 i0.wp.com
 72.21.91.111 i1.wp.com
-72.21.91.111 i2.wp.com
-72.21.91.111 i3.wp.com
-72.21.91.111 i4.wp.com
-72.21.91.111 i5.wp.com
-72.21.91.111 i6.wp.com
-72.21.91.111 i7.wp.com
-72.21.91.111 i8.wp.com
-72.21.91.111 i9.wp.com
 117.18.232.133 edgecastcdn.net
 117.18.232.133 www.edgecastcdn.net
 110.232.178.193 www.edgecast.com
