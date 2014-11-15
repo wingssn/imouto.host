@@ -9,6 +9,8 @@
 117.18.232.191	activations.cdn.mozilla.net
 #mozilla
 #edgecast
+72.21.91.99 www.drupal.org
+72.21.91.99 drupal.org
 68.232.44.54 www.theatlantic.com
 68.232.44.54 theatlantic.com
 72.21.91.54 cdn.theatlantic.com
