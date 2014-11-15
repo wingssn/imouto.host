@@ -42,7 +42,7 @@
 68.232.45.40 fc06.deviantart.net
 68.232.45.40 fc07.deviantart.net
 68.232.45.40 fc08.deviantart.net
-68.232.45.40 fc08.deviantart.net
+68.232.45.40 fc09.deviantart.net
 192.119.22.108 foobar.withgoogle.com
 192.119.22.108 interstellar.withgoogle.com 
 192.119.22.108 edudirectory.withgoogle.com 
