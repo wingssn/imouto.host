@@ -6,8 +6,7 @@
 117.18.232.191	support.cdn.mozilla.net
 117.18.232.191	marketplace.cdn.mozilla.net
 117.18.232.191	air.cdn.mozilla.net
-93.184.215.191 marketplace.cdn.mozilla.net
-93.184.215.191 air.cdn.mozilla.net
+117.18.232.191	activations.cdn.mozilla.net
 #mozilla
 #edgecast
 72.21.91.121 0.gravatar.com
