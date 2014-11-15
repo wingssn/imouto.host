@@ -1,9 +1,23 @@
+#mozilla
+117.18.232.191	addons.cdn.mozilla.net
+117.18.232.191	mozorg.cdn.mozilla.net
+117.18.232.191	developer.cdn.mozilla.net
+117.18.232.191	fhr.cdn.mozilla.net
+117.18.232.191	support.cdn.mozilla.net
+117.18.232.191	marketplace.cdn.mozilla.net
+117.18.232.191	air.cdn.mozilla.net
+93.184.215.191 marketplace.cdn.mozilla.net
+93.184.215.191 air.cdn.mozilla.net
+#mozilla
+#edgecast
 72.21.91.121 0.gravatar.com
 72.21.91.121 1.gravatar.com
 72.21.91.121 2.gravatar.com
 72.21.91.121 s.gravatar.com
 72.21.91.111 i0.wp.com
 72.21.91.111 i1.wp.com
+72.21.91.111 s0.wp.com
+72.21.91.111 s1.wp.com
 117.18.232.133 edgecastcdn.net
 117.18.232.133 www.edgecastcdn.net
 110.232.178.193 www.edgecast.com
@@ -20,6 +34,7 @@
 110.232.178.146 about.deviantart.com
 110.232.178.146 wallpaper.deviantart.com
 110.232.178.146 portfolio.deviantart.com
+110.232.178.146 smoothmoney.deviantart.com
 68.232.44.148 st.deviantart.net
 68.232.44.148 i.deviantart.net
 68.232.44.148 a.deviantart.net
@@ -43,6 +58,10 @@
 68.232.45.40 fc07.deviantart.net
 68.232.45.40 fc08.deviantart.net
 68.232.45.40 fc09.deviantart.net
+#edgecast
+#google系列
+192.119.22.108 gweb-letour.storage.googleapis.com
+192.119.22.108 cjxlist1.googlecode.com
 192.119.22.108 foobar.withgoogle.com
 192.119.22.108 interstellar.withgoogle.com 
 192.119.22.108 edudirectory.withgoogle.com 
@@ -63,34 +82,33 @@
 192.119.22.108 trendstw.withgoogle.com 
 192.119.22.108 spellup.withgoogle.com 
 192.119.22.108 impactchallenge.withgoogle.com
-69.22.163.234 a248.e.akamai.net
-#91.121.84.91 archive.today
-#91.121.84.91 archive.is
-192.119.22.108 script.googleusercontent.com
-162.13.201.175 www.transifex.com
-50.56.21.178 email.transifex.com
-192.30.252.140 gist.github.com
-111.221.33.16 smile-fnl10.nicovideo.jp
-23.61.250.25 fbstatic-a.akamaihd.net
-23.61.250.25 fbcdn-sphotos-f-a.akamaihd.net
-54.192.225.207 pao-pao.net
-54.192.225.207 www.pao-pao.net
-54.225.121.9 hola.org
-54.225.121.9 www.hola.org
-54.225.121.9 cdn4.hola.org
-74.125.68.121 javascript-blocker.toggleable.com
-69.171.233.18   friendfeed.com
-69.171.233.18   www.friendfeed.com
-#69.171.233.18   blog.friendfeed.com
 74.125.204.121	s3.feedly.com
 74.125.206.121	s3.feedly.com
 192.184.89.121	hosts.huhamhire.com
 74.125.132.82	huhamhire-hosts.googlecode.com
 199.27.79.133	huhamhire.github.com
-#162.218.53.188	www.sis001.com
-#174.127.195.163	www.sexinsex.net
 173.194.123.14	wiki.huhamhire-hosts.googlecode.com
 173.194.123.14	cjxlist1.googlecode.com
+74.125.68.121 javascript-blocker.toggleable.com
+192.119.22.108 script.googleusercontent.com
+#google系列
+#其他
+192.30.252.140 gist.github.com
+23.235.43.133 gist-assets.github.com
+69.22.163.234 a248.e.akamai.net
+#91.121.84.91 archive.today
+91.121.84.91 archive.is
+162.13.201.175 www.transifex.com
+50.56.21.178 email.transifex.com
+23.61.250.25 fbstatic-a.akamaihd.net
+23.61.250.25 fbcdn-sphotos-f-a.akamaihd.net
+54.225.121.9 hola.org
+54.225.121.9 www.hola.org
+54.225.121.9 cdn4.hola.org
+69.171.233.18   friendfeed.com
+69.171.233.18   www.friendfeed.com
+#其他
+#flickr
 106.10.137.23	static.flickr.com
 27.123.51.89	c1.staticflickr.com
 27.123.51.89	c2.staticflickr.com
@@ -116,10 +134,14 @@
 203.84.197.26	www.flickr.com
 203.84.197.26	flickr.com
 203.84.197.27	api.flickr.com
+#flickr
+#DDK
 46.51.216.186	duckduckgo.com
 46.51.216.186	icons.duckduckgo.com
 46.51.216.186	help.duckduckgo.com
 96.227.124.36	flash.duckduckgo.com
+#DDK
+#AD
 127.0.0.1	www.duhang123.com
 127.0.0.1	duhang123.com
 127.0.0.1	youxi.baidu.com
@@ -133,6 +155,8 @@
 127.0.0.1	p2.youxi.bdimg.com
 127.0.0.1	static.pay.baidu.com
 127.0.0.1	tequan.baidu.com
+#AD
+#Crystal ACG
 106.186.27.62	www.dmm.com
 106.186.27.62	www.dmm.co.jp
 106.186.27.62	www.akabeesoft2.com
@@ -144,7 +168,9 @@
 106.186.27.62	www.minori.ph
 106.186.27.62	erogamescape.ddo.jp
 106.186.27.62	tenco.cc
-106.186.27.62	wheel-soft.com	
+106.186.27.62	wheel-soft.com
+#Crystal ACG
+#greatfire
 107.20.178.162	greatfire.org
 107.20.178.162	www.greatfire.org
 107.20.178.162	en.greatfire.org
@@ -154,12 +180,9 @@
 54.235.116.105	www.freeweibo.com
 54.230.34.19	getlantern.org
 54.230.34.19	www.getlantern.org
-#68.232.34.19	addons.cdn.mozilla.net		美国	EdgeCast网络公司CDN节点
-#93.184.215.191	addons.cdn.mozilla.net		美国	EdgeCast网络公司CDN节点
-#192.229.145.191	addons.cdn.mozilla.net		美国		EdgeCast网络公司CDN节点
-117.18.232.191	addons.cdn.mozilla.net
-117.18.232.191	mozorg.cdn.mozilla.net
-
+54.192.225.207 pao-pao.net
+54.192.225.207 www.pao-pao.net
+#greatfire
 203.208.46.177  code.google.com
 #GoogleAccounts↓
 203.208.46.177  accounts.google.com
