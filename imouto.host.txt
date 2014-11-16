@@ -20,6 +20,7 @@
 72.21.91.121 s.gravatar.com
 72.21.91.111 i0.wp.com
 72.21.91.111 i1.wp.com
+192.0.77.2 i2.wp.com
 72.21.91.111 s0.wp.com
 72.21.91.111 s1.wp.com
 117.18.232.133 edgecastcdn.net
@@ -1270,6 +1271,8 @@
 103.245.222.133	pages.github.com
 103.245.222.184	github.global.ssl.fastly.net
 103.245.222.133	google.github.io
+23.235.47.133 cloud.githubusercontent.com
+23.235.47.133 assets-cdn.github.com
 #GitHub END
 
 #Box.com START
