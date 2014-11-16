@@ -8,6 +8,7 @@
 117.18.232.191	air.cdn.mozilla.net
 117.18.232.191	activations.cdn.mozilla.net
 117.18.232.191  download-installer.cdn.mozilla.net
+117.18.237.191  getpersonas-cdn.mozilla.net
 #mozilla
 #edgecast
 72.21.91.99 www.drupal.org
