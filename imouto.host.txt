@@ -11,6 +11,8 @@
 117.18.237.191  getpersonas-cdn.mozilla.net
 #mozilla
 #edgecast
+93.184.216.185 38.media.tumblr.com
+93.184.216.63 secure.assets.tumblr.com
 72.21.91.99 www.drupal.org
 72.21.91.99 drupal.org
 68.232.44.54 www.theatlantic.com
