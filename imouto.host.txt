@@ -3,15 +3,24 @@
 117.18.232.191	mozorg.cdn.mozilla.net
 117.18.232.191	developer.cdn.mozilla.net
 117.18.232.191	fhr.cdn.mozilla.net
-117.18.232.191	support.cdn.mozilla.net
+68.232.34.191	  support.cdn.mozilla.net
 117.18.232.191	marketplace.cdn.mozilla.net
 117.18.232.191	air.cdn.mozilla.net
 117.18.232.191	activations.cdn.mozilla.net
+117.18.232.191	cdn.mozilla.net
 117.18.232.191  download-installer.cdn.mozilla.net
 117.18.237.191  getpersonas-cdn.mozilla.net
+117.18.232.191  snippets.cdn.mozilla.net
+117.18.232.191  telemetry-experiment.cdn.mozilla.net
+117.18.232.191  code.cdn.mozilla.net
+117.18.232.191  cs163.wpc.edgecastcdn.net
+117.18.232.191  videos.cdn.mozilla.net
+117.18.232.191  glow.cdn.mozilla.net
+72.21.81.109    df6a.https.cdn.softlayer.net
 #mozilla
 #edgecast
 93.184.216.185 38.media.tumblr.com
+93.184.216.185 40.media.tumblr.com
 93.184.216.63 secure.assets.tumblr.com
 72.21.91.99 www.drupal.org
 72.21.91.99 drupal.org
@@ -32,7 +41,6 @@
 110.232.178.193 www.edgecast.com
 110.232.178.193 edgecast.com
 110.232.178.193 small.edgecast.com
-72.21.81.109 df6a.https.cdn.softlayer.net
 110.232.178.82 www.speedtest.net
 117.18.232.133 c.speedtest.net
 110.232.178.146 cu88.deviantart.com
