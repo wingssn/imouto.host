@@ -21,6 +21,7 @@
 #edgecast
 117.18.237.29 ocsp.digicert.com
 117.18.237.191 use.typekit.net
+117.18.237.191 use.typekit.com
 117.18.237.191 p.typekit.net
 93.184.216.185 38.media.tumblr.com
 93.184.216.185 40.media.tumblr.com
