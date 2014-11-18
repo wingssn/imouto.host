@@ -18,6 +18,7 @@
 72.21.81.109 df6a.https.cdn.softlayer.net
 #mozilla
 #edgecast
+117.18.232.133 tiles.cdnst.net
 117.18.237.29 ocsp.digicert.com
 117.18.237.191 use.typekit.net
 117.18.237.191 use.typekit.com
