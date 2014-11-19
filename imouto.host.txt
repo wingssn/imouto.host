@@ -18,6 +18,15 @@
 72.21.81.109 df6a.https.cdn.softlayer.net
 #mozilla
 #edgecast
+72.21.91.8 gp1.wac.edgecastcdn.net
+72.21.91.8 ppcdn.500px.org
+93.184.215.223 cdn1.appleinsider.com 
+93.184.216.229 citylab.com 
+93.184.216.229 www.citylab.com 
+93.184.216.229 cdn.citylab.com
+72.21.91.54 thewire.com
+72.21.91.54 www.thewire.com
+72.21.91.54 cdn.thewire.com
 68.232.44.251 www.w3schools.com
 117.18.232.133 tiles.cdnst.net
 117.18.237.29 ocsp.digicert.com
