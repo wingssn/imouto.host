@@ -70,6 +70,7 @@
 68.232.44.148 i.deviantart.net
 68.232.44.148 a.deviantart.net
 68.232.44.148 e.deviantart.net
+68.232.44.148 s.deviantart.net
 68.232.44.148 th00.deviantart.net
 68.232.44.148 th01.deviantart.net
 68.232.44.148 th02.deviantart.net
