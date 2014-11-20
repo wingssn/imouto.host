@@ -16,6 +16,7 @@
 #117.18.232.191 videos.cdn.mozilla.net
 #117.18.232.191 glow.cdn.mozilla.net
 72.21.81.109 df6a.https.cdn.softlayer.net
+117.18.237.29   ocsp.digicert.com 
 #mozilla
 #edgecast
 72.21.91.8 gp1.wac.edgecastcdn.net
