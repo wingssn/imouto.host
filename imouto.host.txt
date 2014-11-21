@@ -3,7 +3,7 @@
 #117.18.232.191 mozorg.cdn.mozilla.net
 #117.18.232.191 developer.cdn.mozilla.net
 #117.18.232.191 fhr.cdn.mozilla.net
-#68.232.34.191 support.cdn.mozilla.net
+#117.18.232.191 support.cdn.mozilla.net
 #117.18.232.191 marketplace.cdn.mozilla.net
 #117.18.232.191 air.cdn.mozilla.net
 #117.18.232.191 activations.cdn.mozilla.net
@@ -1300,8 +1300,8 @@
 103.245.222.133	pages.github.com
 103.245.222.184	github.global.ssl.fastly.net
 103.245.222.133	google.github.io
-23.235.47.133 cloud.githubusercontent.com
-23.235.47.133 assets-cdn.github.com
+103.245.222.133 cloud.githubusercontent.com
+103.245.222.133 assets-cdn.github.com
 #GitHub END
 
 #Box.com START
