@@ -1617,6 +1617,7 @@
 37.0.88.36	www.startpage.com
 37.0.88.36	support.startpage.com
 37.0.88.36	blog.startpage.com
+37.0.88.36 s4-eu5.startpage.com
 #Startpage END
 
 #Google Services START
