@@ -18,6 +18,19 @@
 72.21.81.109 df6a.https.cdn.softlayer.net
 117.18.237.29   ocsp.digicert.com 
 #mozilla
+#yyets
+116.251.210.221 www.yyets.com
+116.251.210.98 www.yyets.com
+116.251.210.52 www.yyets.com
+116.251.210.58 www.yyets.com
+116.251.210.225 www.yyets.com
+116.251.211.103 www.yyets.com
+27.255.82.19 www.yyets.com
+27.221.43.48 www.yyets.com
+120.209.130.120 www.yyets.com
+221.234.36.107 www.yyets.com
+210.92.18.2 www.yyets.com
+#yyets
 #edgecast
 72.21.91.8 gp1.wac.edgecastcdn.net
 72.21.91.8 ppcdn.500px.org
