@@ -32,6 +32,11 @@
 210.92.18.2 www.yyets.com
 #yyets
 #edgecast
+68.232.35.96 cdn.www.xda-developers.com
+68.232.35.96 cdn1.xda-developers.com
+68.232.35.96 cdn2.xda-developers.com
+68.232.35.96 cdn3.xda-developers.com
+68.232.35.96 cdn4.xda-developers.com
 72.21.91.8 gp1.wac.edgecastcdn.net
 72.21.91.8 ppcdn.500px.org
 93.184.215.223 cdn1.appleinsider.com 
@@ -112,6 +117,7 @@
 68.232.45.40 fc09.deviantart.net
 #edgecast
 #google系列
+173.194.120.88 doc-0g-3k-docs.googleusercontent.com
 173.194.120.88 gweb-letour.storage.googleapis.com
 173.194.120.88 cjxlist1.googlecode.com
 173.194.120.88 foobar.withgoogle.com
