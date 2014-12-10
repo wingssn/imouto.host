@@ -55,7 +55,6 @@
 72.21.91.121 1.gravatar.com
 72.21.91.121 2.gravatar.com
 72.21.91.121 s.gravatar.com
-192.0.80.242 secure.gravatar.com
 72.21.91.111 i0.wp.com
 72.21.91.111 i1.wp.com
 192.0.77.2 i2.wp.com
